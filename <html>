@@ -1,0 +1,37 @@
+<html>
+	<head>
+		<title> SHERMAINE'S WEBPAGE </title>
+	</head>
+
+<center>
+	<body>
+	<p><font size="14" face="cursive" color="pink">Shermaine Jann Dayot</font><p>
+
+		<font size="8" face="courier new">Hello Welcome to my Caucasian Website</font><br>
+
+		<form action="about_me" method="get">
+		<button type="submit">About ME</button></form>
+		<form action="/action_page.php" method="get">
+		<button type="submit">Contact</button></form>
+		<form action="wow.html" method="get">
+		<button type="submit">Wow I'm a button</button></form><br><br>
+
+		<!--<form action="/action_page.php" method="get">
+  Choose your favorite subject:
+  <button name="subject" type="submit" value="fav_HTML">HTML</button>
+  <button name="subject" type="submit" value="fav_CSS">CSS</button>
+</form>-->
+
+<br>
+<br>
+
+		<img src="https://media.giphy.com/media/XY61Wr2gOuCxW/giphy.gif"><br><br><br>
+
+		<iframe width="420" height="315" src="https://www.youtube.com/embed/hzwIAUN3m4c"></iframe>
+
+		<br>the webpage for google is: <strong> <a href="http://www.google.com">google.com</a> </strong>
+
+	</body>
+	</center>
+
+</html> 
